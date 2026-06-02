@@ -1,0 +1,34 @@
+PERGUNTA,OPÃÃES DE RESPOSTA
+Qual seu curso?,"- Licenciatura em ComputaÃ§Ã£o
+- Sistemas de InformaÃ§Ã£o
+- Engenharia de ComputaÃ§Ã£o
+- Outro"
+VocÃª jÃ¡ cursou ou estÃ¡ cursando a disciplina de Banco de Dados?,"- JÃ¡ cursei
+- NÃ£o
+- Estou cursando"
+Qual Ã© o seu nÃ­vel de conhecimento sobre Modelagem de Banco de Dados (Modelo Entidade-Relacionamento - MER)?,"- JÃ¡ tive contato, mas ainda tenho dificuldade
+- JÃ¡ estudei e sei construir diagramas
+- NÃ£o conheceÃ§o esse conteÃºdo
+- JÃ¡ ouvi falar, mas nunca pratiquei
+-Consigo montar diagramas de complexidade mÃ©dia, mas ainda tenho dÃºvidas em casos de especializaÃ§Ã£o/generalizaÃ§Ã£o ou auto-relacionamento
+- ConheÃ§o os conceitos bÃ¡sicos (entidades e atributos), mas sinto muita dificuldade em identificar relacionamentos e cardinalidades
+- Tenho domÃ­nio sobre o MER, consigo modelar cenÃ¡rios complexos e aplicar as regras de normalizaÃ§Ã£o sem dificuldades
+"
+VocÃª jÃ¡ precisou criar um diagrama Entidade-Relacionamento (MER)?,"- Sim
+- NÃ£o"
+Qual dessas etapas vocÃª considera mais difÃ­cil na modelagem de banco de dados?,"- Entender o cenÃ¡rio descrito (mini-mundo)
+- Identificar entidades, Identificar atributos
+- Identificar relacionamentos
+- Montar o diagrama MER"
+"Ao ler a descriÃ§Ã£o de um sistema, vocÃª consegue identificar entidades, atributos e relacionamentos?  ","- Sim
+- NÃ£o
+- Sim, facilmente
+- Sim, com dificuldade
+- Ãs vezes"
+"VocÃª acredita que uma plataforma interativa que mostre o cenÃ¡rio, destaque possÃ­veis entidades no texto e permita montar o diagrama MER poderia ajudar no aprendizado? ","- Sim
+- NÃ£o
+- Talvez"
+"VocÃª acredita que uma plataforma interativa que destacasse no texto as possÃ­veis entidades, atributos e relacionamentos ajudaria vocÃª a aprender modelagem de banco de dados?  ","- Sim
+- NÃ£o
+- Talvez"
+"Na sua opiniÃ£o, o que poderia facilitar o aprendizado de modelagem de banco de dados alÃ©m dos mencionados acima? ",Texto de resposta longa (opcional)
